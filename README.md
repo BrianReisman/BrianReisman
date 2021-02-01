@@ -13,8 +13,8 @@ Two!
 Oh yes!
 
 - I'm 30 hours into a top rated 40 hour course on React
-- About 25% finish an algorithm
-- I'm reading JavaScript: The definitive Guide cover to cover. Currently on page 270 and learning how ES6 introduced dynamic imports.
+- About 25% finish an algorithm and data structure series.
+- And I am reading JavaScript: The definitive Guide cover to cover. (Currently on page 270 and learning how ES6 introduced dynamic imports!)
 
 <!--
 - 🤔 I’m looking for help with recreating React's useState in vanilla JavaScript. You can see my work on this up until now. The issue I'm facing is that index 0 that I get back is non-iterable data so I cannot spread state when updating state...

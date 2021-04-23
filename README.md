@@ -10,7 +10,7 @@ I'm a full stack web developer <!--and certified SCRUM master--> with a backgrou
 - And I am reading JavaScript: The definitive Guide cover to cover. (I'm a bit of a JavaScript fanboy)
 
 ## What else?
-- 📫 Feel free to reach out. You can 🎙💬 Ask me anything at brianReisman@protonMail.com. 
+- 📫 Feel free to reach out. You can 🎙💬 Ask me anything at brianreisman@protonmail.com. 
 - ⚡ Fun fact: I have spent a month (or longer) on 6 different trips (Iceland, Israel, Portugal, Canada's Yukon Territory, Spain, and trip around the SW of USA)
 
 <!--

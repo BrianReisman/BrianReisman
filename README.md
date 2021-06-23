@@ -1,17 +1,17 @@
 # Hello! 👋 My name is Brian.  
-I'm a full stack web developer <!--and certified SCRUM master--> with a background in theater and a passion for teamwork and learning. I recently completed my time at the longest full-time full stack bootcamp that I could find, and treated it like grad school.
+I do full stack web development, <!--and certified SCRUM master--> have a background in theater, and a passion for teamwork and learning. Since finishing my time at the longest full-time full stack bootcamp that I could find and treated it like grad school I have been working as a developer at [Xenith](https://www.xenith.com/) where I build pixel perfect UIs and make sure the site is meeting accessibility standards
 
 <!-- [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianreisman&hide=stars,issues&show_icons=true)](https://github.com/BrianReisman) -->
 
-## What are you working on right now?
-- With on a remote team of 7 I am building a Junior Developer Job Board with a focus on automation and scalability.
-- I am slowly but suring reading my way through JavaScript: The definitive Guide cover to cover. (I'm a bit of a JavaScript fanboy) And also reading Practical Object-Oriented Design: An Agile Primer Using Ruby.
+## What else?
+- On the side I'm working with some awesome folks on a Junior Developer Job Board with a focus on automation and scalability and planning a hackathon for them fall 2021 (stay tuned!)
+- I recently finish reading Practical Object-Oriented Design: An Agile Primer Using Ruby which was *fantastic*!
+- ⚡ Fun fact ✈: I have spent a month (or longer) on 6 different trips (Iceland, Israel, Portugal, Canada's Yukon Territory, Spain, and a trip around the SW of the USA)
 
 ## Interested in Connecting?
 - 📫 Feel free to reach out! You can 🎙💬 Ask me anything at brianreisman@protonmail.com.
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-reisman/) 
-## ⚡ Fun fact:
-I have spent a month (or longer) on 6 different trips (Iceland, Israel, Portugal, Canada's Yukon Territory, Spain, and trip around the SW of USA)
+
 
 
 <!--

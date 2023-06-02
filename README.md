@@ -7,4 +7,4 @@ I work as a full stack engineer at [MachineMetrics](https://www.machinemetrics.c
 - 📫 Feel free to reach out! [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brian-reisman/) 
 
 ## What else?
-- *Fun fact:* I have spent a month (or longer) on 6 different trips (Iceland, Israel, Portugal, Canada's Yukon Territory, Spain, and a trip around the SW of the USA). Up next: Peru! ✈
+- *Fun fact:* I have spent a month (or longer) on 8 different trips (Iceland, Israel, Portugal, Peru, Canada's Yukon Territory, Spain, Mexico, and a trip around the SW of the USA). Up next: 🤔
